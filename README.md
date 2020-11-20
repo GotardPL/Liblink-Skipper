@@ -9,12 +9,14 @@ Installation:
 
 
 
-Credits to:
-TutorialRepublic for code used to find the link
-https://www.tutorialrepublic.com/faq/how-to-find-substring-between-the-two-words-using-jquery.php
+Credits to: <br>
+JQuery team for JQuery <br>
 
-clmpractice.org for a tutorial on how to convert a Tampermonkey script to Chrome Extension
-https://clmpractice.org/2016/05/10/convert-a-userscript-to-a-chrome-extension/
+TutorialRepublic for code used to find the link <br>
+https://www.tutorialrepublic.com/faq/how-to-find-substring-between-the-two-words-using-jquery.php <br>
+
+clmpractice.org for a tutorial on how to convert a Tampermonkey script to Chrome Extension <br>
+https://clmpractice.org/2016/05/10/convert-a-userscript-to-a-chrome-extension/<br>
 
 and many many people from StackOverFlow ;)
 
