@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Liblink-Skipper",
+  "version": "1.0",
+   "browser_action": {
+   },
+   "icons": {
+          "128": "128.png" },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://liblink.pl/*"
+      ],
+      "js": ["jquery-3.4.1.min.js", "content.js"]
+    }
+  ]
+}
