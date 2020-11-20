@@ -3,7 +3,7 @@ A simple script that skips liblink.pl links
 
 Installation:
 1. Download the source code in a zip file and extract it to any folder
-2. Open extensions settings in Chrome or any Chromium based browser and enable developer mode
+2. Open extensions settings in Chrome or any Chromium-Based browser and enable developer mode
 4. Click "load unpacked" and select the folder with the extracted files
 
 
