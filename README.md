@@ -5,6 +5,11 @@ Installation:
 1. Download the source code in a zip file and extract it to any folder
 2. Open extensions settings in Chrome or any Chromium-Based browser and enable developer mode
 4. Click "load unpacked" and select the folder with the extracted files
+<br>
+Known issues:
+<ul>
+<li> When you open a "liblink" link by typing it in the adress bar, it will put you in an endless loop of tabs opening, DON'T DO THAT!</li> 
+</ul>
 
 
 
